@@ -1,0 +1,6 @@
+{
+  "name": "SoftControl v2.1",
+  "description": "Professional C# WPF Windows System Optimization Suite & Live Interactive Simulator with a complete production-ready code explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
